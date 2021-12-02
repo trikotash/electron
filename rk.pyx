@@ -3,7 +3,7 @@ cimport numpy as np
 cimport cython
 from cython.parallel import prange, parallel
 import math
-cimport math
+
  
 cdef class Function:
 
